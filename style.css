@@ -3,8 +3,8 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #333;
-  color: #333;
+  background-color: #333; /* Dark background */
+  color: #fff; /* Light text color for contrast */
 }
 
 header {
@@ -37,10 +37,10 @@ section {
   padding: 2rem;
   margin: 2rem auto;
   max-width: 800px;
-  background: #333;
+  background: #333; /* Dark background for section */
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  color: #333;
+  color: #fff; /* Light text color for section */
 }
 
 section h2 {
@@ -52,6 +52,6 @@ section h2 {
   padding: 1rem;
   border: 1px solid #ddd;
   border-radius: 5px;
-  background: #fff;
-  color: #333;
+  background: #fff; /* White background for project cards */
+  color: #333; /* Dark text for visibility */
 }
