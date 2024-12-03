@@ -32,11 +32,13 @@ nav ul {
 nav ul li {
   display: inline;
   margin: 0 10px;
+  text-align: left;
 }
 
 nav ul li a {
   color: #fff;
   text-decoration: none;
+  text-align: right;
 }
 
 section {
