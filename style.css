@@ -25,7 +25,7 @@ header h1 {
 }
 
 nav {
-  text-align: left;
+  text-align: center;
 }
 
 nav ul {
@@ -36,7 +36,7 @@ nav ul {
 nav ul li {
   display: inline;
   margin: 0 10px;
-  text-align: left;
+  text-align: center;
 }
 
 nav ul li a {
